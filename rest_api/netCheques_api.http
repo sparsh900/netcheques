@@ -1,0 +1,4 @@
+@baseUrl = https://gjryzxeja1.execute-api.ap-south-1.amazonaws.com
+
+
+# POST baseUrl/fakeSetup1/auth

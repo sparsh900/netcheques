@@ -1,0 +1,1 @@
+go to fronend-dev for app frontend code and backend-dev for cloud functions and configuration
